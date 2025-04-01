@@ -22,4 +22,8 @@ read:
 [Reference](https://aider.chat/docs/config/aider_conf.html)
 
 
+## Installation
+
+[aider installation](https://aider.chat/docs/install.html)
+
 
