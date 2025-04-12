@@ -6,6 +6,8 @@
     <title>Projects</title>
     <!--<link rel="stylesheet" href="styles.css">-->
     <link rel="stylesheet" href="simple.min.css">
+    <script src="js/p5.min.js"></script>
+    <script src="js/sidebar.js"></script>
 </head>
 <body>
     <header>
@@ -26,9 +28,19 @@
             width: 100%;
     </style>
     -->
+    <style>
+        #sketch-holder {
+            display: flex;
+            justify-content: center;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <div id="sketch-holder">
+    </div>
     <main>
-        <section>
-            <h1 id="projects">My Projects</h1>
+        <section id="projects">
+            <h1>My Projects</h1>
             <article>
                 <h2>Project 1</h2>
                 <p>Description of Project 1.</p>
@@ -44,7 +56,9 @@
                 </ul>
             </article>
             <a class="button" href="#">home</a>
-            <h1 id="classes">My Classes</h1>
+        </section>
+        <section id="classes">
+            <h1>My Classes</h1>
             <article>
                 <h2>Class 1</h2>
                 <p>Description of Class 1.</p>
@@ -60,7 +74,9 @@
                 </ul>
             </article>
             <a class="button" href="#">home</a>
-            <h1 id="publications">My Publications</h1>
+        </section>
+        <section id="publications">
+            <h1>My Publications</h1>
             <article>
                 <h2>Publication 1</h2>
                 <p>Description of Publication 1.</p>
