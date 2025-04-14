@@ -4,11 +4,11 @@
   color-scheme: dark;
   --bg: #cd825a; /*orange 205, 130, 90*/
   --accent-bg: #cd825a; /*orange 205, 130, 90*/
-  --text: #dcdcdc;
-  --text-light: #ababab;
-  --border: #ffb300;
-  --accent: #ffe099;
-  --accent-hover: #ffe099;
+  --text: #fff;
+  --text-light: #fff;
+  --border: #5aa5cd; /* complement to orange */
+  --accent: #fff;
+  --accent-hover: #fff;
   --accent-text: var(--bg);
   --code: #f06292;
   --preformatted: #ccc;
