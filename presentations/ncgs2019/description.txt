@@ -1,0 +1,17 @@
+Building a Fun and Exciting Computer Science Curriculum
+
+Five years ago we started a new computer science program at Marlborough School
+with the first introductory coding class. Since then we have grown the program
+to include middle school electives, advanced courses, and coding in various
+math and science classes. We now have students who have been studying computer
+science for 3 or more years, and are working on projects involving data
+analysis and interpretation, microcontrollers and sensors, 3D computer
+graphics, virtual reality, and interactive music visualizations and
+projections. In this session, I will show how the combination of a vibrant
+academic culture, strong support from the administration, emphasis on
+student-directed creative projects, and open source software has led to a fun
+and exciting computer science curriculum.
+
+PRESENTER: Darren Kessner, STEM+ Program Co-Head / Math and Computer Science
+Instructor | Marlborough School
+

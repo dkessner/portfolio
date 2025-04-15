@@ -1,0 +1,64 @@
+
+
+/* Marlborough brand colors*/ 
+
+/*#260859; /* Dark Purple */
+/*#7d6b9b; /* Lavender */
+/*#ffd200; /* Golden Yellow */
+/*#f1e5c7; /* Natural */
+/*#717073; /* Dark Grey */
+/*#aaa9ab; /* Light Grey */
+
+
+body { 
+    font-family: 'Lucida Console', 'Monaco', 'Courier New'; 
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffd200; /* Golden Yellow */
+}
+
+.logo {
+    position: absolute;
+    left: 20px;
+    bottom: -20px;
+}
+
+.logo2 {
+    position: absolute;
+    left: 30%;
+    bottom: -10px;
+}
+
+.purple { 
+    background-color: #260859; /* Dark Purple */
+    color: white; 
+    padding: 5px;
+    margin: 30px;
+}
+
+.remark-slide-content {
+    /*
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    */
+    background-image: url("pix/binary_background.png");
+    color: #260859; /* Dark Purple */
+    /*background-color: #7d6b9b; /* Lavender */
+    /*background-color: #aaa9ab; /* Light Grey */
+
+/*    background-color: #a09ee5;*/
+}
+
+.purple a
+{
+    color: white;
+}
+
+

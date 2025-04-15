@@ -1,0 +1,13 @@
+
+# Open Educational Resources for Teachers
+
+The open source movement in software has inspired similar movements that
+promote open educational resources and open public data.  In our Computer
+Science program at Marlborough we rely exclusively on open software and
+textbooks. I will share with you some of my favorite open resources, including
+open access textbooks, publicly available datasets, and open source software.
+Note: This is not limited to computer science!  Open textbooks are available in
+all subject areas, and there are many public domain works and public data sets
+that are useful for humanities and social science classes.
+
+

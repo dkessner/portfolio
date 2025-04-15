@@ -1,0 +1,24 @@
+
+
+accepted (email May 2, 2017):
+
+Session Title: Coding and Making:  Two Great Things That Go Great Together
+
+Co-presenters (if any): Andy Witman
+
+Session Description submitted: Join us for a look at some fun and engaging ways
+to incorporate coding into creative student activities.  We will present
+several projects that blend the physical and the digital worlds.  Come check
+out our retro video game cabinet, wifi-enabled LED hat, and battling robots
+controlled by Raspberry Pi mini-computers.  
+
+Session Type: Breakout Session (1 hour)
+
+Notes or questions: Add tag: Coding
+
+Note that all rooms will have a display with a computer and Internet access.
+If you need anything special for your presentation, or if you would like to
+make any changes to your session details, please email me directly.  (If you
+want to use your own device to present, please bring your own dongle/connector
+and cables for an HDMI input.)
+

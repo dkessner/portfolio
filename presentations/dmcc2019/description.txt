@@ -1,0 +1,32 @@
+
+Graphics programming in Java with the Processing software libraries
+
+The Processing open-source programming language and software libraries were
+developed at the MIT Media Lab both as an educational tool and as a tool for
+visual artists to express themselves in code.  The Processing software
+libraries are written in Java, and can be easily used directly from Java
+programs.  Processing provides a particularly simple application model, which
+makes it easy for the programmer to create interactive computer graphics
+programs.
+
+In this workshop, aimed at teachers of AP Computer Science or more advanced
+courses, participants will learn how to use the Processing libraries from Java.
+I will present several examples of how interactive computer graphics programs
+are an ideal way to illustrate fundamental concepts in computer science and
+object-oriented programming.
+
+Participants should have their own laptops.  Before the workshop, participants
+should download and install:
+
+1) Processing Development Environment which is free and available for all
+platforms (Windows, OSX, Linux).  
+http://processing.org/ 
+
+2) Java SE Development Kit 8 (JDK 8).  (Note: newer versions of Java are
+not yet compatible with Processing).
+https://www.oracle.com/technetwork/java/javaee/downloads/jdk8-downloads-2133151.html
+
+3) Any text editor.  Atom is a good one:
+https://atom.io/
+
+
