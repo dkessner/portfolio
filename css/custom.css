@@ -1,3 +1,6 @@
+/*
+ * custom.css
+ */
 
 
 :root {
@@ -13,6 +16,14 @@
   --code: #f06292;
   --preformatted: #ccc;
   --disabled: #111;
+}
+
+
+#sketch-holder {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
 }
 
 
